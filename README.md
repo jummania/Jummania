@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 * 💻 Founder of **Jummania** and **Mamomi Soft Heart**.
-* 📱 Building Android applications with Java, Kotlin, and Jetpack Compose.
+* 📱 Building Android applications with Java, Kotlin and Jetpack Compose.
 * 🌐 Developing backend systems with PHP, MySQL, and REST APIs.
 * ⚡ Focused on performance, caching, serialization, and software optimization.
 * 🛍️ Published multiple apps on Google Play.
