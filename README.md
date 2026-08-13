@@ -1,25 +1,19 @@
 <h1 align="center">Hi there, I'm Sharif Uddin Jumman 👋</h1>
 
-<p align="center">
-  <b>Android & Backend Developer</b> • Founder of <b>Jummania</b>
-</p>
-
----
-
 ### 🚀 About Me
 
 * 💻 Founder of **Jummania** and **Mamomi Soft Heart**.
-* 📱 Android Developer specializing in Kotlin and Java.
-* 🌐 Backend Developer with PHP, MySQL, and REST APIs.
-* ⚡ Focused on performance, caching, serialization, and database optimization.
-* 🛍️ Explore my published applications on the [Google Play Store](https://play.google.com/store/apps/dev?id=5030358914195610741).
+* 📱 Building Android applications with Java, Kotlin, and Jetpack Compose.
+* 🌐 Developing backend systems with PHP, MySQL, and REST APIs.
+* ⚡ Focused on performance, caching, serialization, and software optimization.
+* 🛍️ Published multiple apps on Google Play.
 
 ---
 
 ### 📬 Get In Touch
 
-* **Website:** https://jummania.com
-* **Email:** [arsharifuddinjumman04@gmail.com](mailto:arsharifuddinjumman04@gmail.com), [sharifuddinjumman@gmail.com](mailto:sharifuddinjumman@gmail.com)
-* **Stack Overflow:** https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman
-* **Facebook:** https://www.facebook.com/sharif.uddin.jumman.2025
-* **Google Play Store:** https://play.google.com/store/apps/dev?id=5030358914195610741
+* **Website:** [jummania.com](https://jummania.com)
+* **Email:** [arsharifuddinjumman04@gmail.com](mailto:arsharifuddinjumman04@gmail.com) • [sharifuddinjumman@gmail.com](mailto:sharifuddinjumman@gmail.com)
+* **Stack Overflow:** [ar-sharif-uddin-jumman](https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman)
+* **Facebook:** [Sharif Uddin Jumman](https://www.facebook.com/sharif.uddin.jumman.2025)
+* **Google Play:** [Mamomi Soft Heart](https://play.google.com/store/apps/dev?id=5030358914195610741)
