@@ -1,11 +1,13 @@
-<heb>
+# <h1 align="center">Hi there, I'm AR Sharif Uddin Jumman 👋</h1>
 
-<h1 align="center">Hi there, I'm AR Sharif Uddin Jumman 👋</h1>
 <p align="center">
-  <b>Independent Software Developer</b> | Founder of <b>Jummania</b> & <b>Mamomi Soft Heart</b>
+  <b>Android & Backend Developer</b> | Founder of <b>Jummania</b> & <b>Mamomi Soft Heart</b>
 </p>
 
 <p align="center">
+  <a href="https://jummania.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Jummania-blue" alt="Website">
+  </a>
   <a href="https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
@@ -21,37 +23,32 @@
 
 ### 🚀 About Me
 
-* 💻 Founder of **Jummania** and **Mamomi Soft Heart**.
-* 📱 Android Developer specializing in Kotlin, Java, and performance-focused mobile applications.
-* 🌐 Backend Developer experienced in PHP, MySQL, and REST API development.
-* ⚡ Focused on software performance, caching, serialization, database optimization, and low-resource environments.
-* 📚 Building digital platforms for Bengali literature and content publishing.
+* 💻 Founder of **Jummania** and **Mamomi Soft Heart**, building digital products and content platforms.
+* 📱 Android Developer specializing in Kotlin, Java, Jetpack Compose, and performance-focused mobile applications.
+* 🌐 Backend Developer experienced in PHP, MySQL, database design, and REST API development.
+* ⚡ Focused on software performance, caching strategies, data serialization, database optimization, and low-resource environments.
+* 📚 Building and maintaining digital platforms for Bengali literature and content publishing.
 * 🚀 Explore my published applications on the [Google Play Store](https://play.google.com/store/apps/dev?id=5030358914195610741).
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Kotlin, Java, PHP, C/C++ |
-| **Mobile Development** | Jetpack Compose, Android SDK, Gradle, R8/Proguard, MVVM |
-| **Backend & Database** | MySQL, PDO, RESTful APIs, Database Indexing & Caching |
-| **Tools & Version Control** | Git, GitHub, Android Studio, Google Play Console |
+| Category                    | Technologies                                                         |
+| :-------------------------- | :------------------------------------------------------------------- |
+| **Languages**               | Kotlin, Java, PHP, C/C++                                             |
+| **Android Development**     | Android SDK, Jetpack Compose, Gradle, MVVM, R8/ProGuard              |
+| **Backend & Database**      | PHP, MySQL, PDO, REST APIs, Database Indexing                        |
+| **Performance Engineering** | Caching, Data Serialization, Memory Optimization, Build Optimization |
+| **Tools & Platforms**       | Git, GitHub, Android Studio, IntelliJ IDEA, Google Play Console      |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsharifuddinjumman&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📬 Get In Touch
 
+* **Website:** https://jummania.com
 * **Primary Email:** [arsharifuddinjumman04@gmail.com](mailto:arsharifuddinjumman04@gmail.com)
 * **Secondary Email:** [sharifuddinjumman@gmail.com](mailto:sharifuddinjumman@gmail.com)
-* **Stack Overflow:** [AR Sharif Uddin Jumman](https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman)
-* **Facebook:** [Sharif Uddin Jumman](https://www.facebook.com/sharif.uddin.jumman.2025)
+* **Stack Overflow:** https://stackoverflow.com/users/19610655/ar-sharif-uddin-jumman
+* **Facebook:** https://www.facebook.com/sharif.uddin.jumman.2025
+* **Google Play Store:** https://play.google.com/store/apps/dev?id=5030358914195610741
