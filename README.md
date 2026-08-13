@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm AR Sharif Uddin Jumman 👋</h1>
+<h1 align="center">Hi there, I'm Sharif Uddin Jumman 👋</h1>
 
 <p align="center">
   <b>Android & Backend Developer</b> • Founder of <b>Jummania</b>
